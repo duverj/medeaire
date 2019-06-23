@@ -1,3 +1,21 @@
+## Medellín Air
+
+*Desarrollada para el YuxiChallenge JSCamp Barcelona 2019 de [Yuxi Global](https://www.yuxiglobal.com/).*
+
+
+Aplicación para la presentación de índice de calidad de aire en el valle de aburrá, con el fin de facilitar el acceso a la información y su difusión para generación de conciencia ambiental. La idea era que si utilizamos apps para comportarnos de acuerdo al clima, por qué no usar una para comportarnos de acuerdo a las necesidades ambientales relacionadas a la calidad del aire.
+
+Esta aplicación ha sido desarrollada en [ReactJS](https://reactjs.org/), estilos con [TailwindCSS](https://tailwindcss.com/) y algunos plugins adicionales. Se obtiene la información desde el sitio Web de elcolombiano.com a través de un Web Scrapper escrito en NodeJS y [CheerioJS](https://cheerio.js.org/) cuyo código puede hallarse en https://github.com/duverj/medeaire-back 
+
+**Para probar esta app:**
+- Descargar el repositorio
+- npm install
+- Iniciar script de Node https://github.com/duverj/medeaire-back
+- npm start
+- Navegar desde su dispositivo móvil a su dirección local en el puerto indicado (3000)
+
+-------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
