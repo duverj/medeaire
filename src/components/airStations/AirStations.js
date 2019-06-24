@@ -20,7 +20,7 @@ const AirStations = () => {
     const [stations, setStations] = useState({});
 
     async function fetchData() {
-        const res = await fetch("http://159.203.164.117:4000/air");
+        const res = await fetch("http://localhost:4000/air");
         res
             .json()
             .then(res => setStations(res.message))
