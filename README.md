@@ -1,8 +1,8 @@
-## Medellín Air
+## Medellín Aire
 
 *Desarrollada para el YuxiChallenge JSCamp Barcelona 2019 de [Yuxi Global](https://www.yuxiglobal.com/).*
 
-**[Demo](https://medeaire.xyz)**
+**[Demo](https://medeaire.xyz)** **- Recomiendo verla en un dispositivo móvil para disfrutar mejor de su interfaz**
 
 
 Aplicación para la presentación de índice de calidad de aire en el valle de aburrá, con el fin de facilitar el acceso a la información y su difusión para generación de conciencia ambiental. La idea es que si utilizamos apps para comportarnos de acuerdo al clima, por qué no usar una para comportarnos de acuerdo a las necesidades ambientales relacionadas a la calidad del aire y contribuir al mejoramiento del mismo.
