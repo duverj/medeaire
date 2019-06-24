@@ -2,6 +2,8 @@
 
 *Desarrollada para el YuxiChallenge JSCamp Barcelona 2019 de [Yuxi Global](https://www.yuxiglobal.com/).*
 
+**[Demo](https://medeaire.xyz)**
+
 
 Aplicación para la presentación de índice de calidad de aire en el valle de aburrá, con el fin de facilitar el acceso a la información y su difusión para generación de conciencia ambiental. La idea era que si utilizamos apps para comportarnos de acuerdo al clima, por qué no usar una para comportarnos de acuerdo a las necesidades ambientales relacionadas a la calidad del aire.
 
