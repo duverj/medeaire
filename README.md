@@ -5,7 +5,7 @@
 **[Demo](https://medeaire.xyz)**
 
 
-Aplicación para la presentación de índice de calidad de aire en el valle de aburrá, con el fin de facilitar el acceso a la información y su difusión para generación de conciencia ambiental. La idea era que si utilizamos apps para comportarnos de acuerdo al clima, por qué no usar una para comportarnos de acuerdo a las necesidades ambientales relacionadas a la calidad del aire.
+Aplicación para la presentación de índice de calidad de aire en el valle de aburrá, con el fin de facilitar el acceso a la información y su difusión para generación de conciencia ambiental. La idea es que si utilizamos apps para comportarnos de acuerdo al clima, por qué no usar una para comportarnos de acuerdo a las necesidades ambientales relacionadas a la calidad del aire y contribuir al mejoramiento del mismo.
 
 Esta aplicación ha sido desarrollada en [ReactJS](https://reactjs.org/), estilos con [TailwindCSS](https://tailwindcss.com/) y algunos plugins adicionales. Se obtiene la información desde el sitio Web de elcolombiano.com a través de un Web Scrapper escrito en NodeJS y [CheerioJS](https://cheerio.js.org/) cuyo código puede hallarse en https://github.com/duverj/medeaire-back 
 
